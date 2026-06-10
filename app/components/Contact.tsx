@@ -11,8 +11,8 @@ const scrollReveal = {
 }
 
 const DEFAULT_EMAIL = 'irfan.haider48@outlook.com'
-const DEFAULT_PHONE = '+92 (0) 307 0003548'
-const DEFAULT_PHONE_CLEAN = '+923070003548'
+const DEFAULT_PHONE = '+92 332 8499666'
+  const DEFAULT_PHONE_CLEAN = '+923328499666'
 
 const DEFAULT_COURSES = [
   'Foundation Physics (Matric/O-Level)',

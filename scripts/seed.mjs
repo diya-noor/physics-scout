@@ -97,7 +97,7 @@ const doc = {
   ],
 
   email: 'irfan.haider48@outlook.com',
-  phone: '+92 (0) 307 0003548',
+  phone: '+92 332 8499666',
   location: 'Parachinar, District Kurram, Pakistan',
   socialLinks: [
     { _key: 'sl1', platform: 'TikTok', url: 'https://www.tiktok.com/@physics.scout' },

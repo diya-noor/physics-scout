@@ -9,7 +9,7 @@ interface Props {
 }
 
 function buildWaHref(phone?: string, message?: string) {
-  const raw = phone || '923070003548'
+  const raw = phone || '923328499666'
   const num = raw.replace(/[^0-9]/g, '')
   const text = encodeURIComponent(message || 'Hello, I want to know about Physics Scout Academy')
   return `https://wa.me/${num}?text=${text}`
