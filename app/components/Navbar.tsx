@@ -72,7 +72,7 @@ export default function Navbar({ navLinks, ctaText }: Props) {
             <Image src="/physics-scout-logo.jpeg" alt="Physics Scout Academy" width={48} height={48} priority
               style={{ display: 'block', width: '100%', height: '100%', objectFit: 'cover' }} />
           </div>
-          <span className="font-display font-extrabold text-xl tracking-tight hidden sm:block">
+          <span className="font-display font-extrabold text-xl tracking-tight">
             <span className="text-blue-light">Physics</span>
             <span className="text-gold">Scout</span>
           </span>
